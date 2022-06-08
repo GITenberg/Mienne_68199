@@ -1,0 +1,35 @@
+_repo: Mienne_68199
+_version: 0.0.1
+creator:
+  author:
+    agent_name: Moulié, Charles
+    aliases:
+    - Sandre, Thierry
+    - Moulie, Charles
+    birthdate: 1890
+    deathdate: 1950
+    gutenberg_agent_id: '52873'
+    url: http://www.gutenberg.org/2009/agents/52873
+    wikipedia:
+    - https://fr.wikipedia.org/wiki/Thierry_Sandre
+    - https://en.wikipedia.org/wiki/Thierry_Sandre
+description: ''
+gutenberg_issued: '2022-05-29'
+identifiers:
+  gutenberg: '68199'
+language: fr
+pgterms:marc904: https://books.google.com/books?id=E3wMAQAAMAAJ
+pgterms:marc905: 20201231031342sandre
+pgterms:marc906: '1923'
+pgterms:marc907: FR
+production_note: Laurent Vogel, Chuck Greif and the Online Distributed Proofreading
+  Team at https://www.pgdp.net (This book was produced from scanned images of public
+  domain material from the Google Books project.)
+publication_note: France :Edgar Malfère,1923.
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- GITenberg
+title: Mienne
+url: http://www.gutenberg.org/ebooks/68199
