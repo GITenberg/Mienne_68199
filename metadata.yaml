@@ -1,5 +1,8 @@
 _repo: Mienne_68199
 _version: 0.1.0
+covers:
+- cover_type: archival
+  image_path: 68199-h/images/cover.jpg
 creator:
   author:
     agent_name: Moulié, Charles
@@ -14,6 +17,8 @@ creator:
     - https://fr.wikipedia.org/wiki/Thierry_Sandre
     - https://en.wikipedia.org/wiki/Thierry_Sandre
 description: ''
+edition_identifiers:
+  edition_id: http://www.gutenberg.org/ebooks/68199#Mienne
 gutenberg_issued: '2022-05-29'
 identifiers:
   gutenberg: '68199'
